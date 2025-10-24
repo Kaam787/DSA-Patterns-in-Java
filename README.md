@@ -85,32 +85,6 @@ Whether you're a beginner looking to get started with DSA or an experienced deve
 - **Balanced Binary Tree Check**  
 - **Lowest Common Ancestor (LCA)**  
 
-## Folder Structure
-DSA-Patterns-in-Java/
-│
-├── SlidingWindow/
-│ ├── MaxSumSubarray.java
-│ ├── LongestSubstringWithoutRepeatingChars.java
-│ └── ...
-│
-├── TwoPointers/
-│ ├── PairWithTargetSum.java
-│ ├── RemoveDuplicatesFromSortedArray.java
-│ └── ...
-│
-├── Backtracking/
-│ ├── Subsets.java
-│ ├── Permutations.java
-│ └── ...
-│
-├── DynamicProgramming/
-│ ├── Fibonacci.java
-│ ├── LongestCommonSubsequence.java
-│ └── ...
-│
-└── README.md
-
-
 ## How to Use
 
 1. Clone the repository to your local machine:
